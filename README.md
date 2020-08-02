@@ -1,6 +1,8 @@
 # Twitter-Bot
 
-Create a twitter developer account and fill details in keys.py<br>
+* Create a twitter developer account
+* Create a app
+* Fill details in keys.py
 
 # Linux
 In Terminal
