@@ -9,7 +9,7 @@ In Terminal
 ```
 git clone https://github.com/vineelsai26/Twitter-Bot.git
 cd Twitter-Bot
-pip3 install tweepy
+pip3 install tweepy python-dotenv
 python3 Bot.py
 ```
 
@@ -18,6 +18,6 @@ In CMD
 ```
 git clone https://github.com/vineelsai26/Twitter-Bot.git
 cd Twitter-Bot
-pip install tweepy
+pip install tweepy python-dotenv
 python Bot.py
 ```
