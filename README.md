@@ -2,7 +2,7 @@
 
 * Create a twitter developer account
 * Create a app
-* Fill details in keys.py
+* Fill details in .env file
 
 # Linux
 In Terminal
